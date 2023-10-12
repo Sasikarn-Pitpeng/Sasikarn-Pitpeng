@@ -4,7 +4,7 @@ Graduate of Computer Science with experience in data science. Teamwork-oriented,
 
 ### Computer Skill
 - 👩‍💻 Programming languages: Python, SQL, R, Scala
-- 📝 Tools: Jupyter Notebook, Google Colab, Excel, RStudio, KNIME
+- 📝 Tools: Jupyter Notebook, Google Colab, Excel, RStudio, KNIME, FIGMA
 - 📊 BI Tools: Looker Studio, Power BI, Streamlit App
 <!--
 **Sasikarn-Pitpeng/Sasikarn-Pitpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
